@@ -4,6 +4,7 @@
   "description": "a basic app for hotel booking and otp generation",
   "main": "server.js",
   "scripts": {
+    "dev":"new dev",
     "start": "node server.js"
   },
   "keywords": [
